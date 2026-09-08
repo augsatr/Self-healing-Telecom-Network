@@ -2,6 +2,31 @@
 
 > **Smart India Hackathon 2026** - Next-generation telecom infrastructure with AI-driven fault prediction and autonomous healing
 
+## Screenshots
+
+### Dashboard - Network Operations Center
+![Dashboard](public/screenshots/dashboard.png)
+
+### 3D Globe - Global Network View
+![3D Globe](public/screenshots/3d-globe.png)
+
+### Network Topology Map
+![Network Map](public/screenshots/network-map.png)
+
+### AI Engine Control Center
+![AI Engine](public/screenshots/ai-engine.png)
+
+### Stress Testing Lab
+![Stress Test](public/screenshots/stress-test.png)
+
+### AI Dashboard - Anomaly Heatmap
+![AI Dashboard](public/screenshots/ai-dashboard.png)
+
+### Auto-Healing Engine
+![Auto Healing](public/screenshots/auto-healing.png)
+
+---
+
 ## Overview
 
 An AI-powered self-healing telecom network that **detects faults before they happen** and **automatically reroutes traffic** with zero human intervention. Built for India's 5G deployment at scale.
@@ -111,6 +136,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │   ├── network-simulator.ts # Network simulation
 │   └── types.ts           # TypeScript types
 └── public/                # Static assets
+    └── screenshots/       # Project screenshots
 ```
 
 ## Key Capabilities
