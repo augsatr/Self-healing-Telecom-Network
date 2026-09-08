@@ -5,25 +5,31 @@
 ## Screenshots
 
 ### Dashboard - Network Operations Center
-![Dashboard](public/screenshots/dashboard.png)
+<img width="1917" height="831" alt="Screenshot 2026-09-07 195512" src="https://github.com/user-attachments/assets/82b3bda4-de72-4cb6-b1ca-f6876aaa858c" />
+
 
 ### 3D Globe - Global Network View
-![3D Globe](public/screenshots/3d-globe.png)
+<img width="1917" height="838" alt="Screenshot 2026-09-07 195409" src="https://github.com/user-attachments/assets/78174a40-402b-4377-9746-10405ef77910" />
+
 
 ### Network Topology Map
-![Network Map](public/screenshots/network-map.png)
+<img width="1917" height="838" alt="Screenshot 2026-09-07 195419" src="https://github.com/user-attachments/assets/796e2ee7-988d-4c82-9220-2e017b61163d" />
+
 
 ### AI Engine Control Center
-![AI Engine](public/screenshots/ai-engine.png)
+<img width="1917" height="836" alt="Screenshot 2026-09-07 195429" src="https://github.com/user-attachments/assets/336ed4e9-2f9f-4baa-beff-faab22a0242f" />
+
 
 ### Stress Testing Lab
-![Stress Test](public/screenshots/stress-test.png)
+<img width="1917" height="831" alt="Screenshot 2026-09-07 195512" src="https://github.com/user-attachments/assets/08b02065-67c9-4e20-b37e-3dee0c52fa9d" />
+
 
 ### AI Dashboard - Anomaly Heatmap
-![AI Dashboard](public/screenshots/ai-dashboard.png)
+
 
 ### Auto-Healing Engine
-![Auto Healing](public/screenshots/auto-healing.png)
+<img width="1917" height="873" alt="Screenshot 2026-09-07 195319" src="https://github.com/user-attachments/assets/9dcaa084-a460-44f6-a3f3-86c8ddefdd95" />
+
 
 ---
 
